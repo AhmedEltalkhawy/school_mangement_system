@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1690213519 source:e:\codeblocks\school project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"school.h"
+
+1690213519 e:\codeblocks\school project\school.h
+
+1690213539 source:e:\codeblocks\school project\school.c
+	"school.h"
+	<stdio.h>
+
