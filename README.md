@@ -1,2 +1,2 @@
 # school_mangement_system
-Application of C Programming Definition & Concepts
+Application on C Programming Definition & Concepts
